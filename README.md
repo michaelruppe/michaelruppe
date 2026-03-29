@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Michael Ruppe
+
+Hardware engineer and electronics educator based in NSW, Australia.
+
+I work across embedded systems, PCB design, motor control, and technical education.
+
+---
+
+**Current focus**
+
+- BLDC motor drivers (STM32, FOC, CAN bus)
+- Open educational resources for FSAE teams → [shutdowncircuit.com](https://shutdowncircuit.com)
+- Electronics consulting for student motorsport teams
+
+**Tools I reach for**
+
+`KiCad` `STM32` `RP2040` `C/C++` `Python` `Cloudflare` `Linux`
+
+---
+
+Get in touch at [michaelruppe.com](https://michaelruppe.com)
