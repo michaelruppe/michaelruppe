@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **michaelruppe/michaelruppe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Michael Ruppe
+## Michael Ruppe
 
 Hardware engineer and electronics educator based in NSW, Australia.
 
@@ -28,7 +26,7 @@ I work across embedded systems, PCB design, motor control, and technical educati
 
 - BLDC motor drivers (STM32, FOC, CAN bus)
 - Open educational resources for FSAE teams → [shutdowncircuit.com](https://shutdowncircuit.com)
-- Electronics consulting for student motorsport teams
+- Electronics consulting for startups and motorsport teams
 
 **Tools I reach for**
 
